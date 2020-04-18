@@ -10,3 +10,11 @@ color1.addEventListener("input", function(){
 color2.addEventListener("input", function(){
     body.style.background = "linear-gradient(to right," + color1.value +","+ color2.value + ")";
 });
+
+var rev = document.querySelector(".reveal")
+var butt = document.querySelector(".clickme")
+
+
+butt.addEventListener("click", function(){
+  rev.classList.toggle("showme");
+});

@@ -17,6 +17,31 @@ h1{
     font: 600 2em 'raleway', san-serif;
 
 }
+.clickme{
+    padding: 1em;
+    border: none;
+    border-radius: .3em;
+    font-size: 1em;
+    color: royalblue;
+    font-weight: 700;
+}
+.reveal{
+    background: rgba(0,0,0,.6);
+    width: 60%;
+    margin: 1em auto;
+    color: white;
+    letter-spacing: 0.1em;
+    padding: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: .5em;
+    display: none;
+    
+    
+}
+.showme{
+    display: block;
+}
+
 h3{
     
     font: 900 1em 'raleway', san-serif;

@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right,white, blue);
+    letter-spacing: .3cm;
+    color: rgba(0,0,0,.5);
+
+}
+
+#ppp{
+    font-size: 19px;
+    letter-spacing: 0em;
+    color: rgba(0,0,0,.6);
+
+}
+h1{
+     
+    font: 600 2em 'raleway', san-serif;
+
+}
+h3{
+    
+    font: 900 1em 'raleway', san-serif;
+
+
+}
